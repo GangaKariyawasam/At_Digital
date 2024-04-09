@@ -6,7 +6,7 @@ const WebSection: React.FC = () => {
         <div className="container-fluid p-5">
             <div className="row d-flex align-items-center">
                 <div className="col-md-4">
-                    <img className="img-fluid" src="/web.png" alt=""/>
+                    <img className="img-fluid" src="/web.png" alt="img"/>
                 </div>
                 <div className="col-md-8 pb-4">
                     <div className="d- flex justify-content-sm-center justify-content-md-start">

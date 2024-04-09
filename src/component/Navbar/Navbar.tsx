@@ -12,11 +12,11 @@ export const Navbar: React.FC = ()=>{
             <nav className="navbar navbar-expand-lg" style={{ backgroundColor: "#6B3CC9" }}>
                 <div className="container-fluid">
                     <div className="d-flex align-items-center gap-2">
-                        <img src="/src/assets/logo.svg" alt="logo" />
+                        <img src="/logo.svg" alt="logo" />
                         <a className="navbar-brand text-white" href="#">AT DIGITAL</a>
                     </div>
                     <button className="navbar-toggler text-white" type="button" onClick={toggleOffcanvas} data-bs-toggle="offcanvas" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                        <img src="/src/assets/list.svg" alt="hamburger" />
+                        <img src="/list.svg" alt="hamburger" />
                     </button>
                     <div className={`offcanvas offcanvas-end ${offcanvasVisible ? 'show' : ''}`} id="navbarSupportedContent" aria-labelledby="navbarSupportedContentLabel">
                         <div className="offcanvas-header">

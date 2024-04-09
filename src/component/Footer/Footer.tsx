@@ -8,7 +8,7 @@ export const Footer: React.FC = ()=>{
                 <div className="row">
                     <div className="col-xl-4 col-md-12">
                         <div className="d-flex align-items-center gap-2">
-                            <img src="/src/assets/logo.svg" alt="logo" />
+                            <img src="/logo.svg" alt="logo" />
                             <a className="navbar-brand text-white" href="#" style={{fontWeight:"700", fontSize:"26px"}}>AT DIGITAL</a>
                         </div>
                         <p className="text-white">Your goal is our target. Not anything in between. We use online marketing platforms and tools to achieve single objective - your business results.</p>

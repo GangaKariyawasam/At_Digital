@@ -7,7 +7,7 @@ const Landing: React.FC = () => {
         <div className="container-fluid p-0">
             <div className="row position-relative">
                 <div style={{
-                    backgroundImage: 'url("/src/assets/home_img.jpeg")',
+                    backgroundImage: 'url("/home_img.jpeg")',
                     backgroundSize: 'cover',
                     minHeight: '100vh'
                 }}>

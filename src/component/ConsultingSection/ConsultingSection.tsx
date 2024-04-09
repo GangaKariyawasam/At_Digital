@@ -15,7 +15,7 @@ const ConsultingSection: React.FC = () => {
                     </div>
                 </div>
                 <div className="col-md-4 order-first order-md-2">
-                    <img className="img-fluid" src="/src/assets/consulting.png" alt=""/>
+                    <img className="img-fluid" src="/consulting.png" alt="img"/>
                 </div>
             </div>
         </div>
