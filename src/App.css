@@ -1,0 +1,22 @@
+@media (max-width: 1440px) {
+    .test{
+        position: absolute;
+        top:50%;
+        left: 2%;
+        bottom: 60%;
+    }
+}
+
+@media (max-width: 768px) {
+    .test{
+        position: static;
+    }
+
+    .justify-content-sm-center {
+    justify-content: center !important;
+    }
+}
+
+.custom-bg-gradient{
+    background: linear-gradient(90deg, #4DCA79 0%, #1CBDDD 100%);
+}
